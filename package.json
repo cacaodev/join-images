@@ -3,7 +3,7 @@
   "version": "0.2.5",
   "description": "Merge multiple images into a single image",
   "engines": {
-    "node": ">= 12.13"
+    "node": ">= 10.0.0"
   },
   "repository": {
     "type": "git",
@@ -58,6 +58,6 @@
   ],
   "dependencies": {
     "is-plain-obj": "^3.0.0",
-    "sharp": "^0.27.0"
+    "sharp": "^0.28.2"
   }
 }
